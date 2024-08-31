@@ -58,15 +58,14 @@ This **Sales Dashboard Project** demonstrates the seamless integration of **Powe
 
 ## 📂 Project Sample Images
 
-![Dashboard Image 1](https://github.com/YourGitHubUsername/Sales-Dashboard/blob/main/Other%20Resources/Dashboard1.png)
-![Dashboard Image 2](https://github.com/YourGitHubUsername/Sales-Dashboard/blob/main/Other%20Resources/Dashboard2.png)
-![Dashboard Image 3](https://github.com/YourGitHubUsername/Sales-Dashboard/blob/main/Other%20Resources/Dashboard3.png)
+![Dashboard Image 1](https://github.com/Bhushan148/Sales-Dashboard-Excel/blob/main/Other%20Resource/Page%201.png)
+![Dashboard Image 2](https://github.com/Bhushan148/Sales-Dashboard-Excel/blob/main/Other%20Resource/Page%202.png)
 
 ---
 
 ## 📊 Download Dataset
 
-Get the dataset used in this project here: [Download Dataset](https://github.com/YourGitHubUsername/Sales-Dashboard/blob/main/Dataset/SalesData.csv)
+Get the dataset used in this project here: [Download Dataset](https://github.com/Bhushan148/Sales-Dashboard-Excel/blob/main/Other%20Resource/Sales-Dashboard-practice-file.xlsx)
 
 ---
 
