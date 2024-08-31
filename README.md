@@ -69,7 +69,7 @@ Get the dataset used in this project here: [Download Dataset](https://github.com
 
 ---
 
-Check out the More on GitHub: [Repository](https://github.com/YourGitHubUsername/Sales-Dashboard)
+Check out the More on GitHub: [Repository](https://github.com/Bhushan148?tab=repositories)
 
 ---
 
